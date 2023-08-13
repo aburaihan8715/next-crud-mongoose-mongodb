@@ -1,0 +1,9 @@
+user=aburaihan8715
+pass=9wPqTmlly97l1zzv
+
+DB_USER=crudUser
+DB_PASS=yWl1SSxNdgaChV4i
+
+MONGODB_URI=mongodb+srv://crudUser:yWl1SSxNdgaChV4i@cluster0.4d3eouf.mongodb.net/next_crud_db
+
+
