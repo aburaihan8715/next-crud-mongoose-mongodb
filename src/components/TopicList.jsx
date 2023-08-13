@@ -35,5 +35,4 @@ const TopicList = async () => {
     </ul>
   );
 };
-
 export default TopicList;
